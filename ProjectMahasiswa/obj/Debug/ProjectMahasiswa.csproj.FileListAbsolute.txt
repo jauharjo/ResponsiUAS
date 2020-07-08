@@ -1,0 +1,6 @@
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+E:\Final Project\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
